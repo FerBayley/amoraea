@@ -1,0 +1,11 @@
+/*
+Theme Name: Amoraea
+Description: Sitio creado en exclusivo para amoraea.com de Alejandro Juroczko
+Author: Fernando Manuel Bayley
+Author URI: http://www.dospuntoclick.com.ar
+Version: 1.0.0
+*/
+
+@import url('../amoraea/css/normalize.css');
+@import url('../amoraea/css/estilos.css');
+@import url('../amoraea/css/responsivemobilemenu.css');
